@@ -1,2 +1,2 @@
 # my-first-repo
-New
+New minor update
